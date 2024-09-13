@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df6435a8-b07b-4985-ace7-7763a86735b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/NOTES.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commercial_muscadine_wines.csv" beforeDir="false" afterPath="$PROJECT_DIR$/commercial_muscadine_wines.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "database.data.views.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726187618789</updated>
-      <workItem from="1726187619900" duration="1357000" />
+      <workItem from="1726187619900" duration="4280000" />
     </task>
     <servers />
   </component>
